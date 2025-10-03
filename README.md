@@ -40,7 +40,7 @@ AvianAlert is an AI-driven monitoring tool built on three main components:
 - Enables localized disease containment
 
 <p align="center">
-  <img src="media/Screenshot%202025-03-03%20at%202.52.08 PM.png" alt="Flock segmentation" width="600"/>
+  <img src="media/flocks.png" alt="Flock segmentation" width="600"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@ AvianAlert is an AI-driven monitoring tool built on three main components:
   - Avian Flu
 
 <p align="center">
-  <img src="media/Screenshot%202025-03-03%20at%202.52.26 PM.png" alt="Excreta Analysis" width="600"/>
+  <img src="media/ai-excreta.png" alt="Excreta Analysis" width="600"/>
 </p>
 
 ---
