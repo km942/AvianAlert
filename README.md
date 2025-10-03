@@ -1,7 +1,7 @@
 # 🐔 AvianAlert: Early Detection, Immediate Action
 
 > 🏆 **First Prize – Data Science Track**  
-> 🏛️ *Cornell Institute for Digital Agriculture Hackathon 2025*
+> 🏛️ *Cornell Institute for Digital Agriculture Hackathon Feb 2025*
 
 AvianAlert is a real-time AI system that detects poultry diseases early using sound and fecal image analysis.
 
